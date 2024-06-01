@@ -1,0 +1,15 @@
+{
+    "name": "discord-ticket-bot",
+    "version": "1.0.0",
+    "description": "A Discord bot for managing support tickets",
+    "main": "shot.js",
+    "scripts": {
+      "start": "node shot.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "discord.js": "^13.8.0",
+      "dotenv": "^16.0.3"
+    }
+  }
